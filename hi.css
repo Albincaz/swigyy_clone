@@ -1,0 +1,51 @@
+.restaurant-list {
+    margin-bottom: 85px;
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    justify-content: space-between;
+    padding-top: 0%;
+    margin-top: 0px;
+  }
+  
+  .restaurant-list .place-link {
+    background: #fff;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+  .restaurant-list .list-item {
+    padding: 25px 25px 57px;
+    border: 1px solid #fff;
+    contain: content;
+  }
+  .restaurant-list .list-item:hover {
+    border-color: #d3d5df;
+    box-shadow: 0 4px 7px 0 rgb(218 220 230 / 60%);
+  }
+  .restaurant-list .item-content {
+    width: 254px;
+    position: relative;
+        padding: 16px;
+        box-sizing: border-box;
+        border: 1.5px solid rgba(2, 6, 12, 0.1);
+        border-radius: 12px;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: 400px;
+  }
+
+  .lolheading{
+    margin: 0px;
+    font-family: Gilroy;
+    font-weight: 1000;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -0.4px;
+    color: rgba(2, 6, 12, 0.92);
+  }
+
+  .material-symbols-outlined{
+    top: 80%;
+  }
+  

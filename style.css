@@ -134,7 +134,7 @@
     min-width: 1200px;
     position: relative;
     margin: 0 auto;
-    padding-top: 42px;
+    padding-top: 0%;
     top: 80px;
     background: #fff;
     padding-left: 31px;
@@ -145,24 +145,63 @@
     align-items: center;
     justify-content: space-between;
   }
+
+  .Buttons1 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 44px;
+    width: 100%;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+    scrollbar-width: none;
+    padding-top: 2%;
+    /* position: sticky;
+    top: 80px; */
+}
+
+.Buttons2 {
+    margin-right: 8px;
+    white-space: nowrap;
+}
+
+.Buttons3 {
+    border-radius: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(2, 6, 12, 0.15);
+    padding: 9px 12px;
+    display: inline-grid;
+    width: max-content;
+    grid-auto-flow: column;
+    gap: 2px;
+    box-shadow: rgba(2, 6, 12, 0.04) 0px 2px 12px;
+    transition: all 100ms ease-in 0s;
+}
+
+.Buttons4 {
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.3px;
+    color: rgba(2, 6, 12, 0.75);
+}
+
+.Buttons5{
+  margin: 0%;
+  padding: 0%;
+}
+
+
   .container .item-bar .number {
     font-family: Gilroy;
-    font-weight: 800;
-    font-size: 24px;
+    font-weight: 1000;
+    font-size: 30px;
     letter-spacing: -0.4px;
     margin: 0%;
     padding: 0%;
     color: rgba(2, 6, 12, 0.92);
-  }
-  .container .item-bar::after {
-    color: #3d4152;
-    position: absolute;
-    content: '';
-    left: 0;
-    right: 0;
-    height: 1px;
-    top: 81px;
-    background: #e9e9eb;
   }
   
   .container .item-bar .filters {
@@ -287,25 +326,6 @@
     display: flex;
     align-items: center;
     color: #000;
-  }
-
-  .offer-div {
-    border-top: 1px solid #e9e9eb;
-    padding-top: 14px;
-    margin-top: 14px;
-    color: #8a584b;
-    display: flex;
-    align-items: center;
-    font-weight: 600;
-  }
-  
-  .offer-div .offer-text {
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.2;
-  }
-  .offer-text .fa-tags {
-    margin-right: 2px;
   }
   
 /* footer section */
