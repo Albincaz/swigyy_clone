@@ -407,7 +407,7 @@
     width: 100%;
     display: flex;
     background-color: rgb(240, 240, 245);
-    justify-content: space-around;
+    justify-content: center;
     max-width: 100%;
     min-width: 100%;
     margin: 0 auto;
@@ -423,12 +423,12 @@
     font-weight: 600;
     /*    border: 1px solid white;*/
     flex: 1;
-    margin: 26px 0px 10px 15px;
+    margin: 26px 0px 0px 0px;
     /*    padding: 15px 0px 0px 0px;*/
   }
   
   .footer-li {
-    padding: 20px 10px 2px 0px;
+    padding: 10px 10px 2px 0px;
   }
   
   .footer-ul {
@@ -446,6 +446,20 @@
   
   .footer-li a:hover {
     font-weight: 600;
+  }
+
+  .citie{
+    border-radius: 8px;
+  }
+
+  .sc-gIEZMH{
+    display: flex;
+    flex-flow: row;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    margin: 16px 0px;
+    row-gap: 16px;
+    column-gap: 16px;
   }
   
   /* .points img {
