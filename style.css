@@ -423,6 +423,7 @@
     font-weight: 600;
     /*    border: 1px solid white;*/
     flex: 1;
+    gap: 5%;
     margin: 26px 0px 0px 0px;
     /*    padding: 15px 0px 0px 0px;*/
   }
