@@ -1,0 +1,317 @@
+._3guTM{
+    height: calc(100vh - 80px);
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    background: #fff;
+}
+
+._1xnKo{
+    width: 271px;
+    height: 256px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/2xempty_cart_yfxml0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+._3u_-O{
+    margin-top: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #535665;
+}
+
+._1xfqf{
+    margin-top: 8px;
+    color: #7e808c;
+}
+
+._2VOaT{
+    margin-top: 30px;
+    padding: 11px 20px;
+    text-transform: uppercase;
+    background-color: #ff5200;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    font-size: 15px;
+    text-align: center;
+}
+
+.div1{
+    max-width: 1200px;
+    min-width: 1200px;
+    position: relative;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 31px;
+    margin-bottom: 150px;
+}
+.div1::after{
+    -webkit-tap-highlight-color: transparent;
+}
+.div2{
+    flex: 1;
+    margin-right: 30px;
+    position: relative;
+}
+
+.div3{
+    margin: 0%;
+    padding: 0%;
+}
+
+.div4{
+    position: relative;
+    margin-left: 25px;
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 35px 40px 39px;
+}
+
+.div5{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #282c3f;
+    margin-bottom: 32px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-content: space-around;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.div6{
+    margin-right: 25px;
+}
+
+.div7{
+    width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    line-height: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    height: 50px;
+    padding: 0 2rem;
+    color: #ff5200;
+    letter-spacing: 0;
+    border: 1px solid #ff5200;
+    color: #fff;
+    background-color: #ff5200;
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .12);
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .12);
+    width: auto;
+    text-transform: uppercase;
+    height: 40px;
+    line-height: 40px
+}
+
+.div8{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #282c3f;
+    -webkit-box-shadow: 0 3px 5px 0 rgba(40, 44, 63, .4);
+    box-shadow: 0 3px 5px 0 rgba(40, 44, 63, .4);
+    top: 34px;
+    left: -30px;
+}
+
+.icon{
+    background: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/Restuarant_closed_ilvdr7.png);
+    background-repeat: no-repeat;
+    position: relative;
+    font-size: inherit;
+    width: 70%;
+    height: 70%;
+    display: block;
+    background-size: contain;
+}
+
+.icons{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.vid1{
+    position: relative;
+    margin-left: 25px;
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 35px 40px 39px;
+}
+
+.vid2{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #282c3f;
+    margin-bottom: 32px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: row
+}
+
+.vid3{
+    margin-right: 25px;
+}
+
+.vid4{
+    margin-top: -30px;
+}
+
+.vid5{
+    color: #7e808c;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.12;
+}
+
+.vid6{
+    position: absolute;
+    right: 40px;
+    top: 35px;
+}
+
+.vid7{
+    display: flex;
+    margin-top: 36px;
+}
+
+.vid8{
+    border: 1px solid #60b246;
+    color: #60b246;
+    margin-right: 20px;
+}
+
+.idv8{
+    text-align: center;
+    padding: 8px 35px 9px;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.vid9{
+    font-size: 13px;
+}
+
+.vid10{
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.vid11{
+    background-color: #60b246;
+    color: #fff;
+}
+
+.idv11{
+    text-align: center;
+    padding: 8px 35px 9px;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.vid12{
+    font-size: 13px;
+}
+
+.vid13{
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.vid14{
+    border-color: #bebfc5
+}
+
+.idv14{
+    position: absolute;
+    border-left: 1px dashed #282c3f;
+    top: 35px;
+    left: -10px;
+    bottom: -57px;
+}
+
+.vid15{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #282c3f;
+    box-shadow: 0 3px 5px 0 rgba(40, 44, 63, .4);
+    top: 34px;
+    left: -30px;
+}
+
+.vid16{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 20px;
+}
+
+.car1{
+    -webkit-tap-highlight-color: transparent;
+    outline: 0;
+}
+
+.car2{
+    color: #7e808c;
+    letter-spacing: -.3px;
+    font-size: 32px
+}
+
+.car3{
+    font-weight: 600
+}
+
+.CHOoI{
+    margin-top: 47px;
+    opacity: .5;
+    width: 100%;
+    height: 212px;
+}
+
+.car4{
+    color: #93959f;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 300;
+    max-width: 218px
+}
